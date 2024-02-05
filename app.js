@@ -57,7 +57,6 @@ function condicionesIniciales() {
     numeroSecreto = generarNumeroSecreto();
     //Inicializar el número de intentos
     intentos = 1;
-
 }
 
 function reiniciarJuego() {
